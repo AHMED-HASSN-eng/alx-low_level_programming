@@ -8,9 +8,11 @@
  */
 int main(void)
 {
-for (char i = 'a' ; i <= 'z' ; i++)
+int n=97;
+while (n <= 122)
 {
 putchar(i);
+n++;
 }
 return (0);
 }
