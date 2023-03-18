@@ -14,7 +14,7 @@ while (n < 58)
 putchar(n);
 if (n == 57)
 {
-putchar(36);
+n++;
 }
 else
 {
