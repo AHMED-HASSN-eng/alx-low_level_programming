@@ -19,6 +19,7 @@ n++;
 else
 {
 putchar(44);
+purchar(32);
 }
 n++;
 }
