@@ -4,7 +4,7 @@
  *@n: the number
  * Return: last_digit
  */
-int print_last_digit(int n);
+int print_last_digit(int n)
 {
 int x = n % 10;
 _putchar(x + 48);
